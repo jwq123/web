@@ -1,6 +1,8 @@
 # jianglong
 
 > A Vue.js project
+该项目是上海江龙工程有限公司门户网站，使用的是vue框架，也是公司第一次尝试用vue,同时也是前后端完全分离，因为vue擅长做单页面应用，所以考虑到网站首次加载可能时间过长，
+因此上线后应该采用组件异步加载的形式，目前网站还没上线，甲方正在审核，采用的技术是vue,vue-cli,vue-router,axios等,打包工具用的是webpack,ui库使用的是iview.网站的后台管理和网站是在一起的。
 
 ## Build Setup
 
